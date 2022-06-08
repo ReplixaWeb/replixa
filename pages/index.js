@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="lol xd lmao" />
+        <Header title="slebew ancrit malvi x vanli lmao yahahha hayuuu pale papale" />
         <p className="description">
-          lol xd lmao
+          bilek beliau aseli 100% icikiwir shap pov shap hitam mk
         </p>
       </main>
 
